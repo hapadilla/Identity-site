@@ -1,0 +1,9 @@
+form{
+    background-color:green ;
+    /* padding */
+    padding:20px ;
+    border-radius: 10px;
+    width: 450px;
+    text-align: center;
+    margin: 0 auto;
+}
